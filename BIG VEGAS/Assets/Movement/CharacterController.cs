@@ -6,10 +6,18 @@ public class CharacterController : MonoBehaviour
 {
     private PlayerInputActions playerInput;
     private Vector2 movementInput;
+    private Camera main;
     
 
     [SerializeField]
+    private GameObject reach;
+
+    [SerializeField]
+    private float velocity = 3f;
+
+    [SerializeField]
     private float speed = 10f;
+
 
     private Vector3 inputDirection;
 
@@ -32,7 +40,9 @@ public class CharacterController : MonoBehaviour
     {
         playerInput.Disable();
     }
-    // Update is called once per frame
+    
+
+    
     void FixedUpdate()
     {
         float h = movementInput.x;
@@ -50,6 +60,7 @@ public class CharacterController : MonoBehaviour
         Vector3 desiredDirection = camForward * inputDirection.z + camRight * inputDirection.x;
 
         Move(desiredDirection);
+        Turn(desiredDirection);
     }
 
     private void Move(Vector3 desiredDirection)
