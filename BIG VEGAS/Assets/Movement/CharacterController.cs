@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.InputSystem;
 using UnityEngine;
 
 public class CharacterController : MonoBehaviour
@@ -10,7 +11,7 @@ public class CharacterController : MonoBehaviour
     
 
     [SerializeField]
-    private GameObject reach;
+    private GameObject player;
 
     [SerializeField]
     private float velocity = 3f;
@@ -20,7 +21,7 @@ public class CharacterController : MonoBehaviour
 
 
     private Vector3 inputDirection;
-
+    private Vector3 mousePos;
     private Vector3 moveVector;
     private Quaternion currentRotation;
 
@@ -59,10 +60,24 @@ public class CharacterController : MonoBehaviour
 
         Vector3 desiredDirection = camForward * inputDirection.z + camRight * inputDirection.x;
 
+        //Vector3 lookDir = mousePos
+
         Move(desiredDirection);
-        Turn(desiredDirection);
+        //Turn(desiredDirection);
     }
 
+    private void Update()
+    {
+        Vector2 mouse = playerInput.Player.MousePosition.ReadValue<Vector2>();
+        
+        Vector3 mouseWorld = Camera.main.ScreenToWorldPoint(new Vector3(mouse.x, player.transform.position.y, mouse.y));
+        Vector3 forward = mouseWorld - player.transform.position;
+        //mouse.y = transform.position.y;
+        player.transform.rotation = Quaternion.LookRotation(forward, Vector3.up);
+
+        //mousePos = Camera.main.ScreenToWorldPoint(new Vector3(mouse.x, 0, mouse.y));
+        //transform.LookAt(mousePos, Vector3.up) ;
+    }
     private void Move(Vector3 desiredDirection)
     {
         moveVector.Set(desiredDirection.x, 0f, desiredDirection.z);
