@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8035396769586182042}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -43,5 +43,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc68e2bd56c5aaa499065bb1c6e204b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bigVegas: {fileID: 5890189621102062721, guid: 6292a86318252f647b47c1020e1fcd90, type: 3}
-  offset: 0
+  bigVegas: {fileID: 0}
+  offset: 25
