@@ -30,6 +30,7 @@
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+<<<<<<< HEAD
                 "key": "editor.backFaceSelectEnabled",
                 "value": "{\"m_Value\":false}"
             },
@@ -45,6 +46,8 @@
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+=======
+>>>>>>> endgame
                 "key": "lightmapping.autoUnwrapLightmapUV",
                 "value": "{\"m_Value\":true}"
             },
@@ -52,6 +55,7 @@
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "editor.autoRecalculateCollisions",
                 "value": "{\"m_Value\":false}"
+<<<<<<< HEAD
             },
             {
                 "type": "UnityEngine.ProBuilder.SelectionModifierBehavior, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -67,6 +71,8 @@
                 "type": "UnityEngine.ProBuilder.SelectMode, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "editor.selectMode",
                 "value": "{\"m_Value\":2}"
+=======
+>>>>>>> endgame
             }
         ]
     }
