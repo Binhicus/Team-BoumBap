@@ -4,11 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Attack
-  - Awareness
   - SpawnPoint
-  - Enemy
-  - HitMe
+  - Rooms
   layers:
   - Default
   - TransparentFX
@@ -18,11 +15,7 @@ TagManager:
   - UI
   - 
   - 
-<<<<<<< Updated upstream
-  - 
-=======
-  - Player
->>>>>>> Stashed changes
+  - Walls
   - 
   - 
   - 
