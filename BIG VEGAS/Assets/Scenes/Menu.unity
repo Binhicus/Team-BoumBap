@@ -746,8 +746,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dfedb3771c17fe4fbf691fdac4746f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainScene: Shader
-  credits: Boss
+  mainScene: GenerationProcedurale
+  credits: Credits
+  menu: Menu
 --- !u!1 &867148100
 GameObject:
   m_ObjectHideFlags: 0
