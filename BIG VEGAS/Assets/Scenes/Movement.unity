@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 8391f430bc0bfe046afbb4ef648aa27d, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -217,7 +217,7 @@ Transform:
   m_LocalScale: {x: 20, y: 1, z: 20}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &316835806
 GameObject:
@@ -261,7 +261,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!20 &1792041000 stripped
 Camera:
@@ -358,18 +358,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!4 &543450652994645193 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6438932324177167696, guid: 6292a86318252f647b47c1020e1fcd90, type: 3}
-  m_PrefabInstance: {fileID: 6832268120823916953}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &919132148785706611 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5913365372683952106, guid: 6292a86318252f647b47c1020e1fcd90, type: 3}
-  m_PrefabInstance: {fileID: 6832268120823916953}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1759942861797451246
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -384,7 +374,7 @@ PrefabInstance:
     - target: {fileID: 1759942861103053223, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 919132148785706611}
+      objectReference: {fileID: 0}
     - target: {fileID: 2298572799082429807, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -546,7 +536,7 @@ PrefabInstance:
     - target: {fileID: 7236907628933414681, guid: 01f3f7717701db0499d4df9f6d69ae1b, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 543450652994645193}
+      objectReference: {fileID: 0}
     - target: {fileID: 7236907628933414683, guid: 01f3f7717701db0499d4df9f6d69ae1b, type: 3}
       propertyPath: m_Name
       value: CameraManager
@@ -563,7 +553,7 @@ PrefabInstance:
     - target: {fileID: 8035396769586182040, guid: 9dbc4daffc395c24aa84e7c0b99d464e, type: 3}
       propertyPath: bigVegas
       value: 
-      objectReference: {fileID: 543450652994645193}
+      objectReference: {fileID: 0}
     - target: {fileID: 8035396769586182041, guid: 9dbc4daffc395c24aa84e7c0b99d464e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
