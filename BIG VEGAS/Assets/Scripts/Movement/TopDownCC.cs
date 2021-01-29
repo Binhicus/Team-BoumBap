@@ -72,6 +72,7 @@ public class TopDownCC : MonoBehaviour
         {
             isSinging = false;
             Sing();
+            GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePositionY |RigidbodyConstraints.FreezeRotationX |RigidbodyConstraints.FreezeRotationZ;
         }
 
         //Debug.Log();
@@ -97,7 +98,7 @@ public class TopDownCC : MonoBehaviour
         anim.SetFloat("forward", localMove.z);
         anim.SetFloat("sideways", localMove.x);
 
-        Debug.Log(localMove);
+        //Debug.Log(localMove);
     }
 
     void RotateFromMouseVector()
