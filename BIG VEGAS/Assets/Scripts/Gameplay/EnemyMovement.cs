@@ -64,6 +64,8 @@ public class EnemyMovement : MonoBehaviour
         if (other.gameObject.tag == "Attack")
         {
             isChasing = false;
+            leftFist.SetActive(false);
+            rightFist.SetActive(false);
             anim.SetBool("dancing", true);
             GetComponent<Collider>().enabled = false;
             
