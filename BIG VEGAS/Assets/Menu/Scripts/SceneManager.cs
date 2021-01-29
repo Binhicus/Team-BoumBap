@@ -7,6 +7,7 @@ public class SceneManager : MonoBehaviour
 {
     public string mainScene;
     public string credits;
+    public string menu;
 
     // Start is called before the first frame update
     void Start()
@@ -29,6 +30,11 @@ public class SceneManager : MonoBehaviour
     public void  Credits()
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene(credits);
+    }
+
+    public void Return()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene(menu);
     }
 
     // To quit the game
