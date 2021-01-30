@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    public GameObject player;
+    //public GameObject player;
 
     [SerializeField]
     private bool isChasing = false;
@@ -14,6 +14,7 @@ public class EnemyMovement : MonoBehaviour
 
     private Animator anim;
     private bool attacking;
+    private GameObject bigVegas;
 
     [SerializeField]
     private GameObject leftFist;
@@ -25,6 +26,7 @@ public class EnemyMovement : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         attacking = false;
+        bigVegas = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -32,7 +34,7 @@ public class EnemyMovement : MonoBehaviour
     {
         if(isChasing == true)
         {
-            transform.LookAt(player.transform);
+            transform.LookAt(bigVegas.transform);
             transform.position += transform.forward * pace * Time.deltaTime;
         }
         /*float dist = Vector3.Distance(transform.position, player.transform.position);       
@@ -58,7 +60,7 @@ public class EnemyMovement : MonoBehaviour
             int randomNumber = Random.Range(1, 2);
             anim.SetBool("Attack", true);
             anim.SetInteger("atk1", randomNumber);
-            player.GetComponent<Rigidbody>().constraints = ~RigidbodyConstraints.FreezePositionY;
+            bigVegas.GetComponent<Rigidbody>().constraints = ~RigidbodyConstraints.FreezePositionY;
             
         }
         if (other.gameObject.tag == "Attack")
