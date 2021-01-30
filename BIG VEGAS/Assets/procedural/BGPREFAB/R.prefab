@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 440679204264043630}
   m_Layer: 0
   m_Name: Cube (9)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 8572997465481577496}
   m_Layer: 0
   m_Name: Cube (8)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -239,7 +239,7 @@ GameObject:
   - component: {fileID: 8326206824585923369}
   m_Layer: 0
   m_Name: Cube (15)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -351,7 +351,7 @@ GameObject:
   - component: {fileID: 228093508541167750}
   m_Layer: 0
   m_Name: Cube (12)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -463,7 +463,7 @@ GameObject:
   - component: {fileID: 7612992137807703875}
   m_Layer: 0
   m_Name: Cube (14)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -575,7 +575,7 @@ GameObject:
   - component: {fileID: 4673135367076831815}
   m_Layer: 0
   m_Name: Cube (40)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -687,7 +687,7 @@ GameObject:
   - component: {fileID: 888950032063539562}
   m_Layer: 0
   m_Name: Cube (46)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -799,7 +799,7 @@ GameObject:
   - component: {fileID: 8237258909755196769}
   m_Layer: 0
   m_Name: Cube (36)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -911,7 +911,7 @@ GameObject:
   - component: {fileID: 8170823704515859336}
   m_Layer: 0
   m_Name: Cube (18)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1023,7 +1023,7 @@ GameObject:
   - component: {fileID: 8947684991738066476}
   m_Layer: 0
   m_Name: Cube (31)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1135,7 +1135,7 @@ GameObject:
   - component: {fileID: 5451122012377023567}
   m_Layer: 0
   m_Name: Cube (41)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1247,7 +1247,7 @@ GameObject:
   - component: {fileID: 346961365010521359}
   m_Layer: 0
   m_Name: Cube (11)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1359,7 +1359,7 @@ GameObject:
   - component: {fileID: 6339101075282071946}
   m_Layer: 0
   m_Name: Cube (37)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1471,7 +1471,7 @@ GameObject:
   - component: {fileID: 7792846960482486932}
   m_Layer: 0
   m_Name: Cube (32)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1583,7 +1583,7 @@ GameObject:
   - component: {fileID: 525759332264939894}
   m_Layer: 0
   m_Name: Cube (7)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1695,7 +1695,7 @@ GameObject:
   - component: {fileID: 6356006177818481832}
   m_Layer: 0
   m_Name: Cube (49)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1807,7 +1807,7 @@ GameObject:
   - component: {fileID: 96550483181180191}
   m_Layer: 0
   m_Name: Cube (28)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1919,7 +1919,7 @@ GameObject:
   - component: {fileID: 1158365683727733380}
   m_Layer: 0
   m_Name: Cube (19)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2028,7 +2028,7 @@ GameObject:
   - component: {fileID: 6322726512602428400}
   m_Layer: 0
   m_Name: R
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2042,12 +2042,13 @@ Transform:
   m_GameObject: {fileID: 4114445366185772691}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 136877800671126505}
   - {fileID: 6986577910244064059}
   - {fileID: 5711188896291480436}
   - {fileID: 1928212897930529175}
+  - {fileID: 4181740234792708389}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2078,7 +2079,7 @@ GameObject:
   - component: {fileID: 410229228216612275}
   m_Layer: 0
   m_Name: Cube (26)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2190,7 +2191,7 @@ GameObject:
   - component: {fileID: 5002550285448066974}
   m_Layer: 0
   m_Name: Cube (30)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2302,7 +2303,7 @@ GameObject:
   - component: {fileID: 8598462358175999688}
   m_Layer: 0
   m_Name: Cube (22)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2414,7 +2415,7 @@ GameObject:
   - component: {fileID: 9203329908411207479}
   m_Layer: 0
   m_Name: Cube (5)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2526,7 +2527,7 @@ GameObject:
   - component: {fileID: 6313937591730005704}
   m_Layer: 0
   m_Name: Cube (35)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2638,7 +2639,7 @@ GameObject:
   - component: {fileID: 3960051989256781733}
   m_Layer: 0
   m_Name: Cube (33)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2750,7 +2751,7 @@ GameObject:
   - component: {fileID: 1829816164786237185}
   m_Layer: 0
   m_Name: Cube (24)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2862,7 +2863,7 @@ GameObject:
   - component: {fileID: 3312566509865323796}
   m_Layer: 0
   m_Name: Cube (10)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -2974,7 +2975,7 @@ GameObject:
   - component: {fileID: 8477244641988292213}
   m_Layer: 0
   m_Name: Cube (20)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3086,7 +3087,7 @@ GameObject:
   - component: {fileID: 7106527781955934924}
   m_Layer: 0
   m_Name: Cube (16)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3198,7 +3199,7 @@ GameObject:
   - component: {fileID: 5757459035658403491}
   m_Layer: 0
   m_Name: Cube (27)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3310,7 +3311,7 @@ GameObject:
   - component: {fileID: 3210971636635424401}
   m_Layer: 0
   m_Name: Cube (23)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3422,7 +3423,7 @@ GameObject:
   - component: {fileID: 1241485692815726633}
   m_Layer: 0
   m_Name: Cube (17)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3534,7 +3535,7 @@ GameObject:
   - component: {fileID: 5726143947897463210}
   m_Layer: 0
   m_Name: Cube (42)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3646,7 +3647,7 @@ GameObject:
   - component: {fileID: 6320520707263310796}
   m_Layer: 0
   m_Name: Cube (48)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3758,7 +3759,7 @@ GameObject:
   - component: {fileID: 8620790495032444745}
   m_Layer: 0
   m_Name: Cube (21)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3870,7 +3871,7 @@ GameObject:
   - component: {fileID: 7225615830633824510}
   m_Layer: 0
   m_Name: Cube (6)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -3982,7 +3983,7 @@ GameObject:
   - component: {fileID: 7498478915146559014}
   m_Layer: 0
   m_Name: Cube (44)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -4171,7 +4172,7 @@ GameObject:
   - component: {fileID: 360866102603724625}
   m_Layer: 0
   m_Name: Cube (25)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -4279,7 +4280,7 @@ GameObject:
   - component: {fileID: 136877800671126505}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4292,7 +4293,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8071214873421287693}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 3, z: 1}
   m_Children:
   - {fileID: 2449889161185755489}
@@ -4352,7 +4353,7 @@ GameObject:
   - component: {fileID: 5914798165233666306}
   m_Layer: 0
   m_Name: Cube (13)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -4464,7 +4465,7 @@ GameObject:
   - component: {fileID: 7487916010157171821}
   m_Layer: 0
   m_Name: Cube (39)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -4574,7 +4575,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 501361832678322386, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 501361832678322386, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4614,19 +4615,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 501361832678322386, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_LocalScale.x
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 501361832678322386, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_LocalScale.z
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1842067612952889659, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a29cd832c0ee51d4b989451d387a31d5, type: 2}
+      objectReference: {fileID: 2100000, guid: 2c80495c82f8ec247981922b655377b2, type: 2}
     - target: {fileID: 3994822366001536421, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_Name
       value: Closed Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994822366001536421, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
@@ -4634,6 +4639,80 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 501361832678322386, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
   m_PrefabInstance: {fileID: 5311725164459791270}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5334876122818789066
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4570892448175636725}
+    m_Modifications:
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883948036693478741, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_Name
+      value: malcolm
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+--- !u!4 &4181740234792708389 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+  m_PrefabInstance: {fileID: 5334876122818789066}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8346141800409895068
 PrefabInstance:
@@ -4658,13 +4737,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: TopSide
       objectReference: {fileID: 0}
+    - target: {fileID: 7570850956842195208, guid: 778f82effd415074e907a6b62b236675, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     - target: {fileID: 7570850956842195211, guid: 778f82effd415074e907a6b62b236675, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.07
       objectReference: {fileID: 0}
     - target: {fileID: 7570850956842195211, guid: 778f82effd415074e907a6b62b236675, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.74
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7570850956842195211, guid: 778f82effd415074e907a6b62b236675, type: 3}
       propertyPath: m_LocalPosition.z

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6554767709375563301}
   m_Layer: 0
   m_Name: Cube (17)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 8820846194263561384}
   m_Layer: 0
   m_Name: Cube (42)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -239,7 +239,7 @@ GameObject:
   - component: {fileID: 6517322693359561056}
   m_Layer: 0
   m_Name: Cube (27)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -351,7 +351,7 @@ GameObject:
   - component: {fileID: 2607736881748462418}
   m_Layer: 0
   m_Name: Cube (16)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -540,7 +540,7 @@ GameObject:
   - component: {fileID: 594735898458559239}
   m_Layer: 0
   m_Name: Cube (20)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -652,7 +652,7 @@ GameObject:
   - component: {fileID: 5425270327546503767}
   m_Layer: 0
   m_Name: Cube (38)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -764,7 +764,7 @@ GameObject:
   - component: {fileID: 1734595446554914671}
   m_Layer: 0
   m_Name: Cube (10)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -876,7 +876,7 @@ GameObject:
   - component: {fileID: 5992553510928689797}
   m_Layer: 0
   m_Name: Cube (33)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -988,7 +988,7 @@ GameObject:
   - component: {fileID: 5480858184967664086}
   m_Layer: 0
   m_Name: Cube (35)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -1100,7 +1100,7 @@ GameObject:
   - component: {fileID: 3043262931591080842}
   m_Layer: 0
   m_Name: Cube (5)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -1212,7 +1212,7 @@ GameObject:
   - component: {fileID: 2323140595223486320}
   m_Layer: 0
   m_Name: Cube (39)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -1324,7 +1324,7 @@ GameObject:
   - component: {fileID: 5697551120120822995}
   m_Layer: 0
   m_Name: Cube (13)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -1432,7 +1432,7 @@ GameObject:
   - component: {fileID: 6851650153730345941}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1445,7 +1445,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3382499136042088753}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 3, z: 1}
   m_Children:
   - {fileID: 9154827482517743965}
@@ -1505,7 +1505,7 @@ GameObject:
   - component: {fileID: 7329757399353273661}
   m_Layer: 0
   m_Name: Cube (25)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -1617,7 +1617,7 @@ GameObject:
   - component: {fileID: 9182480436229925977}
   m_Layer: 0
   m_Name: Cube (44)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -1729,7 +1729,7 @@ GameObject:
   - component: {fileID: 7444040429797028052}
   m_Layer: 0
   m_Name: Cube (6)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -1841,7 +1841,7 @@ GameObject:
   - component: {fileID: 1519157488418842060}
   m_Layer: 0
   m_Name: Cube (21)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -1953,7 +1953,7 @@ GameObject:
   - component: {fileID: 7554379353053687973}
   m_Layer: 0
   m_Name: Cube (48)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2065,7 +2065,7 @@ GameObject:
   - component: {fileID: 6134775672134491178}
   m_Layer: 0
   m_Name: Cube (40)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2177,7 +2177,7 @@ GameObject:
   - component: {fileID: 6463948796869561539}
   m_Layer: 0
   m_Name: Cube (12)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2289,7 +2289,7 @@ GameObject:
   - component: {fileID: 6615299145789846945}
   m_Layer: 0
   m_Name: Cube (47)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2401,7 +2401,7 @@ GameObject:
   - component: {fileID: 2973080604845531656}
   m_Layer: 0
   m_Name: Cube (14)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2513,7 +2513,7 @@ GameObject:
   - component: {fileID: 8585860971816990944}
   m_Layer: 0
   m_Name: Cube (15)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2625,7 +2625,7 @@ GameObject:
   - component: {fileID: 857560482358481324}
   m_Layer: 0
   m_Name: Cube (8)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2737,7 +2737,7 @@ GameObject:
   - component: {fileID: 5542744685413233755}
   m_Layer: 0
   m_Name: Cube (30)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2849,7 +2849,7 @@ GameObject:
   - component: {fileID: 2311882555464553017}
   m_Layer: 0
   m_Name: Cube (22)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -2961,7 +2961,7 @@ GameObject:
   - component: {fileID: 2238398262780166612}
   m_Layer: 0
   m_Name: Cube (26)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -3073,7 +3073,7 @@ GameObject:
   - component: {fileID: 5090325248103563228}
   m_Layer: 0
   m_Name: Cube (34)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -3182,7 +3182,7 @@ GameObject:
   - component: {fileID: 670311090384935884}
   m_Layer: 0
   m_Name: L
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3196,7 +3196,7 @@ Transform:
   m_GameObject: {fileID: 7488017662006259375}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 6851650153730345941}
   - {fileID: 4780558618087672140}
@@ -3216,6 +3216,7 @@ Transform:
   - {fileID: 4476251004435753849}
   - {fileID: 8152402237269048186}
   - {fileID: 3511654175190773407}
+  - {fileID: 7224691428132000864}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3246,7 +3247,7 @@ GameObject:
   - component: {fileID: 1549871787259940620}
   m_Layer: 0
   m_Name: Cube (49)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -3358,7 +3359,7 @@ GameObject:
   - component: {fileID: 7690188733987278103}
   m_Layer: 0
   m_Name: Cube (19)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -3470,7 +3471,7 @@ GameObject:
   - component: {fileID: 4131348859985806362}
   m_Layer: 0
   m_Name: Cube (28)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -3582,7 +3583,7 @@ GameObject:
   - component: {fileID: 8922699456312392143}
   m_Layer: 0
   m_Name: Cube (32)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -3694,7 +3695,7 @@ GameObject:
   - component: {fileID: 7947692524954164517}
   m_Layer: 0
   m_Name: Cube (7)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -3806,7 +3807,7 @@ GameObject:
   - component: {fileID: 706662598072044334}
   m_Layer: 0
   m_Name: Cube (37)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -3918,7 +3919,7 @@ GameObject:
   - component: {fileID: 5759482733303354180}
   m_Layer: 0
   m_Name: Cube (11)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -4030,7 +4031,7 @@ GameObject:
   - component: {fileID: 2059469767454152905}
   m_Layer: 0
   m_Name: Cube (41)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -4142,7 +4143,7 @@ GameObject:
   - component: {fileID: 1841844108669733225}
   m_Layer: 0
   m_Name: Cube (31)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -4254,7 +4255,7 @@ GameObject:
   - component: {fileID: 6576944094093993612}
   m_Layer: 0
   m_Name: Cube (18)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -4366,7 +4367,7 @@ GameObject:
   - component: {fileID: 6586828705029681670}
   m_Layer: 0
   m_Name: Cube (36)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -4478,7 +4479,7 @@ GameObject:
   - component: {fileID: 8115112191501607568}
   m_Layer: 0
   m_Name: Cube (46)
-  m_TagString: Untagged
+  m_TagString: Labyrinthe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 4294967295
@@ -4588,7 +4589,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4628,19 +4629,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.2083333
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.2083333
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 8227897363198179140, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_Name
       value: GunCadeZap (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8227897363198179140, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
@@ -4662,7 +4667,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3581583379760332217, guid: 5cda79e698ede734a823cb095e53093a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.49999994
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3581583379760332217, guid: 5cda79e698ede734a823cb095e53093a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4702,19 +4707,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3581583379760332217, guid: 5cda79e698ede734a823cb095e53093a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.2083333
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 3581583379760332217, guid: 5cda79e698ede734a823cb095e53093a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 3581583379760332217, guid: 5cda79e698ede734a823cb095e53093a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.2083333
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 3582763643631580107, guid: 5cda79e698ede734a823cb095e53093a, type: 3}
       propertyPath: m_Name
       value: GunCadeZap
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582763643631580107, guid: 5cda79e698ede734a823cb095e53093a, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5cda79e698ede734a823cb095e53093a, type: 3}
@@ -4736,7 +4745,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2567106284649779403, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5064187
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2567106284649779403, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4790,12 +4799,90 @@ PrefabInstance:
       propertyPath: m_Name
       value: DriverRageRacerScreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2570254712446950341, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
 --- !u!4 &3651599240722458278 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2567106284649779403, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
   m_PrefabInstance: {fileID: 1228681948870751853}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1459884897644217231
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7033681812966402249}
+    m_Modifications:
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.8468868
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5317731
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -115.749
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883948036693478741, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+      propertyPath: m_Name
+      value: malcolm
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+--- !u!4 &7224691428132000864 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8070959636340316143, guid: 8a73d1dd6f468a0439f1d0add0acab42, type: 3}
+  m_PrefabInstance: {fileID: 1459884897644217231}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2654460810781594205
 PrefabInstance:
@@ -4808,13 +4895,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArcadeStandardHotLavaScreen
       objectReference: {fileID: 0}
+    - target: {fileID: 7559039694528378205, guid: 1c10d38001898ea48933fcc27fa81da1, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     - target: {fileID: 7561946127732911721, guid: 1c10d38001898ea48933fcc27fa81da1, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.160509
       objectReference: {fileID: 0}
     - target: {fileID: 7561946127732911721, guid: 1c10d38001898ea48933fcc27fa81da1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.50432634
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7561946127732911721, guid: 1c10d38001898ea48933fcc27fa81da1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4884,7 +4975,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4924,19 +5015,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.25
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 1800157623960494427, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_Name
       value: GunCadeBlackWidow Screen (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800157623960494427, guid: 096c176024c475c48bf625f9912481af, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 096c176024c475c48bf625f9912481af, type: 3}
@@ -4958,7 +5053,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1813344745102143761, guid: f42d3e83c270b594eaf277c3a8d5f5c9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5043262
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1813344745102143761, guid: f42d3e83c270b594eaf277c3a8d5f5c9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5012,6 +5107,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArcadeStandardHotLavaScreen (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1818394377735350821, guid: f42d3e83c270b594eaf277c3a8d5f5c9, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f42d3e83c270b594eaf277c3a8d5f5c9, type: 3}
 --- !u!4 &3511654175190773407 stripped
@@ -5032,7 +5131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5072,19 +5171,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.2083333
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 8224560935283095862, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.2083333
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 8227897363198179140, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
       propertyPath: m_Name
       value: GunCadeZap (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8227897363198179140, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 188408f0cbce9b04c8fe4503c8234b6c, type: 3}
@@ -5106,7 +5209,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.50000006
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5146,19 +5249,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 1796204188104545405, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.25
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 1800157623960494427, guid: 096c176024c475c48bf625f9912481af, type: 3}
       propertyPath: m_Name
       value: GunCadeBlackWidow Screen (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800157623960494427, guid: 096c176024c475c48bf625f9912481af, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 096c176024c475c48bf625f9912481af, type: 3}
@@ -5180,7 +5287,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4379663682061258590, guid: 2811a8344d46548469d314a3455b3bfd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5043261
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4379663682061258590, guid: 2811a8344d46548469d314a3455b3bfd, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5234,6 +5341,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArcadeStandardPoliceScreen (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4381551045602939960, guid: 2811a8344d46548469d314a3455b3bfd, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2811a8344d46548469d314a3455b3bfd, type: 3}
 --- !u!4 &8759794535593351548 stripped
@@ -5254,7 +5365,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1937833782414009044, guid: 4225c56b0a7078b429d18605138090d7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.50413066
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1937833782414009044, guid: 4225c56b0a7078b429d18605138090d7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5308,6 +5419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WideStandardOranges (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1941334556232591736, guid: 4225c56b0a7078b429d18605138090d7, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4225c56b0a7078b429d18605138090d7, type: 3}
 --- !u!4 &6676359800597643976 stripped
@@ -5328,7 +5443,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2567106284649779403, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5064187
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2567106284649779403, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5382,6 +5497,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DriverRageRacerScreen (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2570254712446950341, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f6964c1fa89f664a8501cf8983eff9a, type: 3}
 --- !u!4 &8152402237269048186 stripped
@@ -5402,7 +5521,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.5
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5442,19 +5561,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.25
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 2439497110737263451, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_Name
       value: GunCadeBlackWidow Screen (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439497110737263451, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
@@ -5474,13 +5597,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: DriverRageRacerScreen
       objectReference: {fileID: 0}
+    - target: {fileID: 1018215166953916884, guid: e86156306166c6746872b42d6d83dab6, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     - target: {fileID: 1020696259912106714, guid: e86156306166c6746872b42d6d83dab6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.49035716
       objectReference: {fileID: 0}
     - target: {fileID: 1020696259912106714, guid: e86156306166c6746872b42d6d83dab6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.50641865
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1020696259912106714, guid: e86156306166c6746872b42d6d83dab6, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5550,7 +5677,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 501361832678322386, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 501361832678322386, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5591,10 +5718,14 @@ PrefabInstance:
     - target: {fileID: 1842067612952889659, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a29cd832c0ee51d4b989451d387a31d5, type: 2}
+      objectReference: {fileID: 2100000, guid: 4cb78534c97bdca49aeb3440a101ee89, type: 2}
     - target: {fileID: 3994822366001536421, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
       propertyPath: m_Name
       value: Closed Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994822366001536421, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 77b7f88bc328c1d4cb517e4479853f4e, type: 3}
@@ -5616,7 +5747,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1813344745102143761, guid: f42d3e83c270b594eaf277c3a8d5f5c9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.50432634
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1813344745102143761, guid: f42d3e83c270b594eaf277c3a8d5f5c9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5670,6 +5801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArcadeStandardHotLavaScreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1818394377735350821, guid: f42d3e83c270b594eaf277c3a8d5f5c9, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f42d3e83c270b594eaf277c3a8d5f5c9, type: 3}
 --- !u!4 &7022045176860363800 stripped
@@ -5690,7 +5825,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.50000006
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5730,19 +5865,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.25
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 2435535153795968637, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.25
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 2439497110737263451, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
       propertyPath: m_Name
       value: GunCadeBlackWidow Screen
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439497110737263451, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}
+      propertyPath: m_TagString
+      value: Labyrinthe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 37473bbecb003f14f881a6703d8c1753, type: 3}

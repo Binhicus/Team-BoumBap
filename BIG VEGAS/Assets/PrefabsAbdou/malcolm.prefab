@@ -2852,8 +2852,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8883948036693478741}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 19.3}
-  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.8, y: 1, z: 0.8}
   m_Children:
   - {fileID: 5647040849380801086}
   - {fileID: 7340649874031338614}
@@ -2898,9 +2898,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 768330c00e2614748831738b87ebaad4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 6554418525804131899, guid: 6292a86318252f647b47c1020e1fcd90, type: 3}
   isChasing: 0
-  pace: 2
+  pace: 1.5
   leftFist: {fileID: 8614108979988634390}
   rightFist: {fileID: 8614108978642583702}
 --- !u!54 &8614108980515301409

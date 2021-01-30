@@ -27,6 +27,9 @@ public class TopDownCC : MonoBehaviour
     private Vector3 movement;
     private float h;
     private float v;
+
+    [SerializeField]
+    private AudioSource song1;
     //private Vector3 movementVector;
 
     private void Awake()
@@ -65,14 +68,16 @@ public class TopDownCC : MonoBehaviour
         }
         if(Input.GetButton("Fire1"))
         {
+            song1.mute = false;
             isSinging = true;
             Sing();
         }
         if (Input.GetButtonUp("Fire1"))
         {
             isSinging = false;
+            song1.mute = true;
             Sing();
-            GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePositionY |RigidbodyConstraints.FreezeRotationX |RigidbodyConstraints.FreezeRotationZ;
+            GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePositionY |RigidbodyConstraints.FreezeRotationX |RigidbodyConstraints.FreezeRotationZ | RigidbodyConstraints.FreezeRotationY;
         }
 
         //Debug.Log();
