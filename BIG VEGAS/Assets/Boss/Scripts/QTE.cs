@@ -12,11 +12,20 @@ public class QTE : MonoBehaviour
     public int correctKey;
     public int countingDown;
     public int score = 0;
+    public int debut = 0;
 
     void Update()
     {
+        if (debut == 0)
+        {
+            StartCoroutine(Wait());
+        }
+        if (debut == 1)
+        {
+
         if(waitingForKey == 0)
         {
+            debut = 1;
             QTE_Gen = Random.Range(1, 4);
             countingDown = 1;
             StartCoroutine(CountDown());
@@ -94,10 +103,18 @@ public class QTE : MonoBehaviour
             }
         }
 
-        if(score == 20)
-        {
-            StartCoroutine(Win());
+             if(score == 20)
+             {
+                  StartCoroutine(Win());
+             }
         }
+        
+    }
+
+    IEnumerator Wait()
+    {
+        yield return new WaitForSeconds(2f);
+        debut++;
     }
 
     IEnumerator KeyPressing()
