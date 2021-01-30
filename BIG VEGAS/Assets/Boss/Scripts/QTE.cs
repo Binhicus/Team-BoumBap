@@ -24,19 +24,19 @@ public class QTE : MonoBehaviour
             if(QTE_Gen == 1)
             {
                 waitingForKey = 1;
-                displayBox.GetComponent<Text>().text = "[E]";
+                displayBox.GetComponent<Text>().text = "E";
             }
 
             if (QTE_Gen == 2)
             {
                 waitingForKey = 1;
-                displayBox.GetComponent<Text>().text = "[R]";
+                displayBox.GetComponent<Text>().text = "R";
             }
 
             if (QTE_Gen == 3)
             {
                 waitingForKey = 1;
-                displayBox.GetComponent<Text>().text = "[T]";
+                displayBox.GetComponent<Text>().text = "T";
             }
         }
 
